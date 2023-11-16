@@ -10,8 +10,8 @@
 
 ### 项目教程
 
-- 详见"FISCO-BCOS区块链系统Java-SDK的调用.md"
+- 详见目录下"more_readme/FISCO-BCOS区块链系统Java-SDK的调用.md"
 
 ### 对自己的智能合约进行压力测试
 
-- 详见"FISCO-BCOS区块链系统Java-SDK的调用.md"
+- 详见目录下"more_readme/FISCO-BCOS区块链系统Java-SDK的调用.md"
