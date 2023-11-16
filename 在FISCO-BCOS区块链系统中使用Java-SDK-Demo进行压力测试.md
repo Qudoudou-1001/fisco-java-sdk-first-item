@@ -1,14 +1,3 @@
----
-title: 在FISCO BCOS区块链系统中使用Java SDK Demo进行压力测试
-date: 2023-10-27 18:24:44
-tags:
-- Java
-- 区块链
-- FISCO BCOS
-categories:
-- 区块链学习
----
-
 ## FISCO BCOS的Java SDK Demo介绍
 
 - Java SDK Demo是FISCO BCOS团队基于Java SDK的基准测试集合，能够对FISCO BCOS节点进行压力测试。Java SDK Demo提供有合约编译功能，能够将Solidity合约文件转换成Java合约文件，此外还提供了针对转账合约、CRUD合约以及AMOP功能的压力测试示例程序

@@ -1,15 +1,3 @@
----
-title: FISCO BCOS区块链系统中Java SDK的调用
-date: 2023-10-23 22:50:07
-tags:
-- SpringBoot
-- Java
-- 区块链
-- FISCO BCOS
-categories:
-- 区块链学习
----
-
 ## 新建SpringBoot项目
 
 - 使用IDEA新建一个SpringBoot项目，使用Maven来管理依赖，SpringBoot的依赖项选择Spring Web
